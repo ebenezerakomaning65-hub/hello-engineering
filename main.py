@@ -1,6 +1,7 @@
 # Simple Budget Calculator
 
 # Income variables
+authour = "Акоманинг Э."
 salary = 3000
 side_income = 500
 investment_income = 150
@@ -8,6 +9,7 @@ investment_income = 150
 # Expense variables
 rent = 1200
 groceries = 400
+
 utilities = 150
 transportation = 200
 entertainment = 100
